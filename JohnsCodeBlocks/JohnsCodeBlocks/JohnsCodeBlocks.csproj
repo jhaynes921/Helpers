@@ -41,7 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Conversions.cs" />
     <Compile Include="Helpers.cs" />
+    <Compile Include="ImportExport.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SqlHelpers.cs" />
   </ItemGroup>
